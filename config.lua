@@ -1,3 +1,0 @@
-Config = {}
-
-Config.usingClothing = true
